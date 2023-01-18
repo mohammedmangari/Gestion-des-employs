@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+*{
+	margin: 0px;
+	padding:0px;
+}
+	
+body {
+ 
+ 	background: linear-gradient(to right, rgba(94,231,223,0.5), rgba(180,144,202,0.5));
+
+}
+
+
+
+form {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+    /* Make the inputs smaller */
+input  {
+      font-size: 20px;
+      padding: 3px;
+    }
+
+    tr{
+    
+    }
+    
+    tr:hover{
+    background: linear-gradient(to right, rgba(94,231,223,0.5), rgba(180,144,202,0.5));
+     
+    }
