@@ -1,12 +1,12 @@
 # Application de gestion des employés
 
 
- Cette application permet l'enregistrement et la gestion des informations des employés. Elle est construite en utilisant les pages JavaServer (JSP), les Servlets,
+- Cette application permet l'enregistrement et la gestion des informations des employés. Elle est construite en utilisant les pages JavaServer (JSP), les Servlets,
  les JavaBeans et la connectivité à une base de données Java (JDBC). Dans cet exemple, l'accent est mis sur la compréhension du concept de l'architecture MVC,
  plutôt que sur la partie front-end.
   
 ### Pour commencer
- Ces instructions vous permettront d'obtenir une copie du projet sur votre machine locale pour des fins de développement et de test.
+- Ces instructions vous permettront d'obtenir une copie du projet sur votre machine locale pour des fins de développement et de test.
 
 ### Prérequis
     1- Java 8 ou supérieur
